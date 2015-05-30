@@ -6,7 +6,11 @@
 *.exe
 *.o
 *.so
+<<<<<<< HEAD
 
+=======
+ 
+>>>>>>> ec3e94e93de3cb8ded4ae2b270fd53d6508f907e
 # Packages #
 ############
 # it's better to unpack these files and commit the raw source
@@ -19,13 +23,21 @@
 *.rar
 *.tar
 *.zip
+<<<<<<< HEAD
 
+=======
+ 
+>>>>>>> ec3e94e93de3cb8ded4ae2b270fd53d6508f907e
 # Logs and databases #
 ######################
 *.log
 *.sql
 *.sqlite
+<<<<<<< HEAD
 
+=======
+ 
+>>>>>>> ec3e94e93de3cb8ded4ae2b270fd53d6508f907e
 # OS generated files #
 ######################
 .DS_Store
